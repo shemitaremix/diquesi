@@ -56,7 +56,7 @@
 </style>
 <body>
         <div>
-            <h1>¿Quieres salir conmigo el domingo por un helado despues del ensayo?</h1>
+            <h1>¿Te gustaria salir conmigo el domingo por un helado despues del ensayo?</h1>
             <button class="boton" id="btn-si">SI</button>
             <button class="boton" id="btn-no" style="position: absolute;">NO</button>
         </div>
